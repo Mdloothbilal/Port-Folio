@@ -1,0 +1,33 @@
+nav a{
+    text-shadow: 1px 1px black;
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    margin-right: 10px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+nav{
+    background-color: rgb(196, 81, 219);
+    padding: 10px;
+    box-shadow: 1px 1px 1px 3px ;
+}
+#a1{
+    margin-left: 41%;
+}
+.hire{
+    background-color: F3EFE0;
+    margin-top: 20%;
+    margin-left: 32%;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px #BA94D1   ;
+}
+#im{
+    margin-top: 10%;
+    margin-left: 15%;
+    position: absolute;
+    border-radius: 50%;
+    box-shadow: 2px 2px 2px 2px black;
+    
+}
